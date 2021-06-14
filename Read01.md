@@ -21,6 +21,7 @@ Use * * to preview *italic text*
 
 ## Quoting Code:
 
+To make a Quotation you need to use this symbol >
 > type your quote here
 
 
