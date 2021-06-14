@@ -36,6 +36,7 @@ To make a Quotation you need to use this symbol >
 ## Links:
 
 You can add links to your markdown file by using [] 
+Here is one to get to Google: [https://www.google.com/]
 
 
 ## Emojies:
