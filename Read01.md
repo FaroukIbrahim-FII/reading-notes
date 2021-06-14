@@ -8,6 +8,7 @@ Markdown will help you achieve more while creating your website.
 
 Following are some of the symbols to use in Markdown:
 
+
 ## Heading:
 
 You can use the # symbol to preview a large heading.  
@@ -36,10 +37,12 @@ To make a Quotation you need to use this symbol >
 
 You can add links to your markdown file by using [] 
 
+
 ## Emojies:
 
 You can show emojies by using : : and adding the emoji code between them.   
 Like this :+1: is'nt cool :smiley:
+
 
 ## Task List:
 
@@ -50,4 +53,10 @@ I can use it to make a useful list.
 - [ ] Check it.  
 
 
+## Lists:
 
+You can add ordered lists using 1. 2. 3. ...etc.
+You can also use unorded lists using * or - or +
+However the unordered lists will appear always like this:
+- Create a list
+- Keep filling it
