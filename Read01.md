@@ -10,14 +10,21 @@ Following are some of the symbols to use in Markdown:
 
 ## Heading:
 
-You can use the # symbol to preview a large heading.
-You can use ## for a second lergest heading.
+You can use the # symbol to preview a large heading.  
+Use two ## for a second lergest heading, and all the way to the ###### to get the smallest header format.
 
 
 ## Styling text:
 
-You can use ** ** to preview a bold text
+You can use ** ** to preview a **bold text**.  
 Use * * to preview *italic text* 
+
+
+## Strikethrough:
+
+By using the ~~ ~~ symbol you can make a strike through text.  
+for example:   
+~~like this one~~.  
 
 
 ## Quoting Code:
@@ -29,3 +36,19 @@ To make a Quotation you need to use this symbol >
 ## Links:
 
 You can add links to your markdown file by using [] 
+
+## Emojies:
+
+You can show emojies by using : : and adding the emoji code between them.   
+Like this :+1: is'nt cool :smiley:
+
+## Task List:
+
+You can even make a check list by using [] with a space between them.  
+And you can check it [x].  
+I can use it to make a useful list.  
+[x] Make a list
+[ ] Check it.  
+
+
+
