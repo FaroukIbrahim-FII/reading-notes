@@ -23,8 +23,7 @@ Use * * to preview *italic text*
 ## Strikethrough:
 
 By using the ~~ ~~ symbol you can make a strike through text.  
-for example:   
-~~like this one~~.  
+for example:  ~~like this one~~.  
 
 
 ## Quoting Code:
@@ -47,8 +46,8 @@ Like this :+1: is'nt cool :smiley:
 You can even make a check list by using [] with a space between them.  
 And you can check it [x].  
 I can use it to make a useful list.  
-[x] Make a list
-[ ] Check it.  
+- [x] Make a list
+- [ ] Check it.  
 
 
 
