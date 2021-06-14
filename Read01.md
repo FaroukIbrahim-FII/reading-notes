@@ -4,6 +4,7 @@
 
 Markdown is a way to style text on the web. For example, you can control the display of the document; format words as bold or italic, add images, and creating lists. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in to help view the style of the text the way you want.
 Note: Markdown is not a wysiwyg type of text editor.
+Markdown will help you achieve more while creating your website.
 
 Following are some of the symbols to use in Markdown:
 
