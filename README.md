@@ -47,7 +47,7 @@ Growth Mindset: Learns from
 Fixed Mindset: ***View as a threat***   
 Growth Mindset: Is inspired by
 
-Whenever I would remind myself to keep a growth mindset, I simply do the following:
+### Whenever I would remind myself to keep a growth mindset, I simply do the following:
 - Value the process over the end result.
 - Emphasise growth over speed.
 - Redefine “genius.”
