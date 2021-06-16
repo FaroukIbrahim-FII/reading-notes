@@ -15,5 +15,6 @@
 |--:|:------:|
 |1.|[Growth Mindset](https://faroukibrahim-fii.github.io/reading-notes/Growth)|
 |2.|[Read01](https://faroukibrahim-fii.github.io/reading-notes/Read01)|
-|3.|[Read02](https://faroukibrahim-fii.github.io/reading-notes/Read02)|4.|[Read03](https://faroukibrahim-fii.github.io/reading-notes/Read03)
+|3.|[Read02](https://faroukibrahim-fii.github.io/reading-notes/Read02)
+|4.|[Read03](https://faroukibrahim-fii.github.io/reading-notes/Read03)
 |5.|[Read04](https://faroukibrahim-fii.github.io/reading-notes/Read04)
