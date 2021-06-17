@@ -19,4 +19,5 @@
 |4.|[Read03](https://faroukibrahim-fii.github.io/reading-notes/Read03)
 |5.|[Read04](https://faroukibrahim-fii.github.io/reading-notes/Read04)
 |6.|[Read05](https://faroukibrahim-fii.github.io/reading-notes/Read05)
-|7.|[Read06](https://faroukibrahim-fii.github.io/reading-notes/Read06)
+|7.|[Read06](https://faroukibrahim-fii.github.io/reading-notes/Read06)|
+
