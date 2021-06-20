@@ -20,4 +20,8 @@
 |5.|[Read04](https://faroukibrahim-fii.github.io/reading-notes/Read04)
 |6.|[Read05](https://faroukibrahim-fii.github.io/reading-notes/Read05)
 |7.|[Read06](https://faroukibrahim-fii.github.io/reading-notes/Read06)|
+<<<<<<< HEAD
 |8.|[Read07](https://faroukibrahim-fii.github.io/reading-notes/Read07)
+=======
+
+>>>>>>> bbe295e81fbe0ce1c529f156659bb57d0d3da4f0
