@@ -1,2 +1,2 @@
-# HTML & Javascript
+# Introductory HTML and JavaScript
 
