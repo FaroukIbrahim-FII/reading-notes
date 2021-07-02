@@ -57,7 +57,9 @@ When you visit a website, the web server hosting that site could be anywhere in 
 
 All in all, these three, sometimes only HTML & CSS and sometimes much more techonligies, are used to create a complete webpage and bring it to life.
 
-## Structure
+## HTML
+
+### Structure
 
 * HTML pages are text documents.
 
@@ -88,7 +90,7 @@ and following is how a HTML file look like:
 
 ![HTML](https://henryegloff.com/media/How-to-Develop-a-Basic-Webpage-Using-HTML-and-CSS-Tutorial-2.jpg)
 
-## Extra Markup
+### Extra Markup
 
 * **Doctypes**:
 
@@ -139,7 +141,7 @@ An iframe is like a little window that has been cut into your page — and in th
 The meta element lives inside the head element and contains information about that web page. It is not visible to users but fulfills a number of purposes such as telling search engines about your page, who created it, and whether or not it is time sensitive. (If the page is time sensitive, it can be set to expire.)
 The meta element is an empty element so it does not have a closing tag. It uses attributes to carry the information.
 
-## HTML5 Layout
+### HTML5 Layout
 
 * The new HTML5 elements i XX ndicate the purpose of
 different parts of a web page and help to describe
@@ -156,7 +158,7 @@ block-level elements.
 (and older versions of IE), extra JavaScript is needed,
 which is available free from Google.
 
-## Process & Design
+### Process & Design
 
 * It's important to understand w XX ho your target audience
 is, why they would come to your site, what information
@@ -170,3 +172,114 @@ visitors understand what you are trying to tell them.
 using size, color, and style.
 * You can use grouping and similarity to help simplify
 the information you present.
+
+## Javascript
+
+### What does Javascript do?
+
+Being able to change the content of an HTML page while it is loaded in the browser is very powerful, right?
+Javascript brings functionality to the webpage and makes your page alive. Think about it like you are building a house. When building any house, you would start with creating the structure of the house, then you would bring functional systems to the house. at the end you would make it more pleasing to live in.
+HTML is the one responsible to create the structure to existence. While CSS is the one responsible to make your webpage more pleasing to the eye. Javascript, on the other hand, is responsible to bring functionality to the webpage.
+
+### EXAMPLES OF JAVASCRIPT IN THE BROWSER
+
+The examples below rely on the ability to:
+
+* **Access**:  the content of the page
+* **Modify**:  the content of the page
+* **Program**: rules or instructions the browser can follow
+* **React**:   to events triggered by the user or browser
+
+* **SLIDESHOWS**
+
+Slideshows in a webpage is an expamle. Slideshows can display a number of different images(or other HTML content) within the same space on a given page. They can play automatically as a sequence, or users can click through the slides manually. They allow more content to be displayed within a limited amount of space.
+
+![Slide](https://bashooka.com/wp-content/uploads/2017/11/slideshow-navigation-website-23.jpg)
+
+**React**: Script triggered when the page loads
+
+**Access**: Get each slide from the slideshow
+
+**Modify**: Only show the first slide (hide others)
+
+**Program**: Set a timer: when to show next slide
+
+**Modify**: Change which slide is shown
+
+**React**: When user clicks button for diffe rent slide
+
+**Program**: Determine which slide to show
+
+**Modify**: Show the requested slide
+
+* **FORMS**
+
+Validating forms (checking whether they have been filled in correctly) is important when information is supplied by users. JavaScript lets you alert the user if mistakes have been made. It can also perform sophisticated calculations based on any data entered and reveal the results to the user.
+
+**React**: User presses the submit button when they have entered their name
+
+**Access**: Get value from form field
+
+**Program**: Check that the name is long enough
+
+**Modify**: Show a warning message if the name is not long enough
+
+### What is script?
+
+But you may ask: what is script and how to create one?
+
+Scripts are made up of instructions a computer can follow step-by-step.
+
+A browser may use different parts of the script depending on how the user interacts with the web page.
+
+Scripts can run different sections of the code in response to the situation around them.
+
+To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.
+
+Start with the big picture of what you want to achieve, and break that down into smaller steps.
+
+1. **DEFINE THE GOAL**: First, you need to define the task you want to achieve. You can think of this as a puzzle for the computer to solve.
+
+2. **DESIGN THE SCRIPT**: To design a script you split the goal out into a series of tasks that are going to be involved in solving this puzzle. This can be represented using a flowchart.
+
+3. **CODE EACH STEP**: Each of the steps needs to be written in a programming language that the computer understands. In our case, this is JavaScript.
+
+#### FROM STEPS TO CODE
+
+Every step for every task shown in a flowchart needs to be written in a language the computer can understand and follow.
+
+#### THE DOCUMENT OBJECT REPRESENTS AN HTML PAGE
+
+Using the document object, you can access and change what content users see on the page and respond to how they interact with it.
+
+Like other objects that represent real-world things, the document object has:
+
+* **PROPERTIES**: Properties describe characteristics of the current web page (such as the t itle of the page).
+
+* **METHODS**: Methods perform tasks associated with the
+document currently loaded in the browser (such as getting information from a specified element or adding new content).
+
+* **EVENTS**: You can respond to events, such as a user clicking or tapping on an element.
+
+#### HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER?
+
+Before diving into the JavaScript language, you need to know how it will fit together with the HTML and CSS in your web pages.
+
+Web developers usually talk about three languages that
+are used to create web pages: HTML, CSS, and JavaScript.
+
+Where possible, aim to keep the three languages in separate files, with the HTML page linking to CSS and JavaScript files.
+
+Each language forms a separate layer with a different purpose. Each layer, from left to right. builds on the previous one.
+
+#### CREATING A BASIC JAVASCRIPT
+
+JavaScript is written in plain text, just like HTML and CSS, so you do not need any new tools to write a script. This example adds a greeting into an HTML page. The greeting changes depending on the time of day.
+
+![Greeting](https://miro.medium.com/max/1425/1*OcpJ4iEDSlFJCcvqB-L7sw.png)
+
+#### LINKING TO A JAVASCRIPT FILE FROM AN HTML PAGE
+
+When you want to use JavaScript with a web page, you use the HTML `<script>` element to tell the browser it is coming across a script. Its s re attribute tells people where the JavaScript file is stored.
+
+![Link](https://www.theengineeringprojects.com/wp-content/uploads/2019/12/Where-To-Add-Your-JavaScript-File-1-1.png)
