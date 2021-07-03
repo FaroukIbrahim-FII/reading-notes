@@ -27,7 +27,7 @@
 
 ## Code 201 Reading Notes
 
-Following is the table of content for the 201 course reading notes. Please note that if a Read has no Hyperlink, that simply means it is not ready yet:
+Following is the table of content for the 201 course reading notes:
 
 ### Table of Content for 201
 
