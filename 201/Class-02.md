@@ -132,3 +132,127 @@ When building a website there are several advantages to placing your CSS rules i
 All of your web pages can share the same style sheet. This is achieved by using the `<link>` element on each HTML page of your site to link to the same CSS document. This means that the same code does not need to be repeated in every page (which results in less code and smaller HTML pages).
 
 Therefore, once the user has downloaded the CSS stylesheet, the rest of the site will load faster. If you want to make a change to how your site appears, you only need to edit the one CSS file and all of your pages will be updated. For example, you can change the style of every `<h1>` element by altering the one CSS style sheet, rather than changing the CSS rules on every page. The HTML code will be easier to read and edit because it does not have lots of CSS rules in the same document. It is generally considered good practice to have the content of the site separated from the rules that determine how it appears.
+
+## PLACING THE SCRIPT IN THE PAGE
+
+You may see JavaScript in the HTML between opening `<script>` and closing `</script>` tags (but it is better to put scripts in their own files).
+
+* try opening the HTML file, removing the src attribute from the opening `<script>` tag, and adding the new code shown on the left between the opening `<script>` tag and the closing `</script>` tag. The s re attribute is no longer needed because the JavaScript is in the HTML page.
+
+* Open the HTML file in your web browser and the welcome greeting is written into the page.
+
+## Javascript runs where it is found in the HTML
+
+When the browser comes across a `<Script>` element, it stops to load the script and then checks to see if it needs to do anything.
+
+## Basic Javascript instructions
+
+### STATEMENTS
+
+A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement. Statements should end with a semicolon.
+
+![Statement](https://www.bookofnetwork.com/images/javascript-images/JS_Expression-in-Statement_17Oct16_1503.png)
+
+### Comments
+
+You should write comments to explain what your code does. They help make your code easier to read and understand. This can help you and others who read your code.
+
+![Comment](https://prognotes.net/wp-content/uploads/2017/06/php-versus-javascript-comments.png)
+
+### Variable
+
+A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables.
+When you write JavaScript, you have to tell the interpreter every individual step that you want it to perform. This sometimes involves more detail than you might expect.
+
+![var](https://1.bp.blogspot.com/-8UmWFTngfwY/XkVRuoPFfkI/AAAAAAAACmI/93j-FMkA9EYyoRIT1qlJ2sMUbobnWT1UgCLcBGAsYHQ/s1600/javascript_var.png)
+
+### Data types
+
+JavaScript distinguishes between numbers, strings, and true or false values known as Booleans.
+
+![types](https://1.bp.blogspot.com/-EPrHJaCTGoU/X3MajXYktEI/AAAAAAAAB5E/qgkmTg0A0s0aRzvsmhmGpa3z2r9bQjIYwCLcBGAsYHQ/w400-h281/668dfc002312ab58e0d1cb15e0b98a5e.png)
+
+### Quotes inside a string
+
+Sometimes you will want to use a double or single quote mark within a string. Because strings can live in single or double quotes, if you just want to use double quotes in the string, you could surround the entire string in single quotes.
+
+### ARRAYS
+
+An array is a special type of variable. It doesn't just store one value; it stores a list of values.
+
+![array](https://www.encodedna.com/javascript/remove-empty-array-slots-using-flat-method-javascript.png)
+
+### ACCESSING & CHANGING VALUES IN AN ARRAY
+
+The first lines of code on the left create an array containing a list of three colors. (The values can be added on the same line or on separate lines as shown here.) Having created the array, the third item on the list is changed from 'custom' to 'beige'. To access a value from an array, after the array name you specify the index number for that value inside square brackets.
+
+### EXPRESSIONS
+
+An expression evaluates into (results in) a single value. Broadly speaking there are two types of expressions.
+
+![expression](https://i.stack.imgur.com/cnK8e.png)
+
+### OPERATORS
+
+Expressions rely on things called operators; they allow programmers to create a single value from one or more values.
+
+![operators](https://i.pinimg.com/originals/13/09/cb/1309cb725dea3e859a873607dd298d00.png)
+
+### CREATING A DATE OBJECT
+
+![date](https://www.codegrepper.com/codeimages/create-date-object-with-time-javascript.png)
+
+### WORKING WITH DATES & TIMES
+
+To specify a date and time, you can use this format: YYYY, MM, OD, HH, MM, SS 1996, 04, 16, 15, 45, 55 This represents 3:45pm and 55 seconds on April 16, 1996.
+The order and syntax for this is:
+
+|Year| four digits|
+|:---|:---------|
+|Month| 0-11 (Jan is 0)|
+|Day| 1-31|
+|Hour| 0-23|
+|Minutes| 0-59|
+|Seconds| 0-59|
+|Milliseconds| 0-999|
+
+### EXAMPLE: FUNCTIONS, METHODS & OBJECTS
+
+This example is split into two parts. The first shows you the details about the hotel, room rate, and offer rate. The second part indicates when the offer expires.
+
+All of the code is placed inside an immediately invoked function expression (llFE) to ensure any variable names used in the script do not clash with variable names used in other scripts.
+
+The first part of the script creates a hot el object; it has three properties (the hotel name, room rate, and percentage discount being offered), plus a method to calculate the offer price which is shown to the user.
+
+The details of the discount are written into the page using information from this hote 1 object. To ensure that the discounted rate is shown with two decimal places (like most prices are shown) the . to Fixed () method of the Number object is used.
+
+The second part of the script shows that the offer will expire in seven days. It does this using a function called offerExpi res(). The date currently set on the user's computer is passed as an argument to the offerExpi res() function so that it can calculate when the offer ends.
+
+## Decisions & Loops
+
+### Decision Making
+
+There are often several places in a script where decisions are made that determine which lines of code should be run next. Flowchars can help you plan for these occasions.
+
+![flowchart](https://i.pinimg.com/originals/a3/26/85/a3268554c5429e6d320044d0cceed273.png)
+
+### Evaluating conditions & conditional statements
+
+There are two components to a decision:
+
+1. An expression is evaluated, which returns a value.
+2. A conditional statement says what to do in a given situation
+
+![condition](https://image.slidesharecdn.com/ch2javascript-conditional-statements-120510030023-phpapp01/95/javascript-conditionalstatements-3-728.jpg?cb=1336619165)
+
+### Comparision operators: evaluating conditions
+
+You can evaluate a situation by comparing one value in the script to what you expect it might be. The result will be a boolean: true or false.
+
+![comparision](https://i.ytimg.com/vi/wFB-ywsNPwg/maxresdefault.jpg)
+
+### Structuring comparison operators
+
+In any condition, there is usually one operator and two operands. The operands are placed on each side of the perator. They can be values or variables. You often see expressions enclosed in brackets.
+
+![structure](https://qph.fs.quoracdn.net/main-qimg-5b0bfdf375ab189520785f2d2caa6313)
