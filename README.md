@@ -57,20 +57,20 @@ Following is the table of content for the 201 course reading notes:
 
 |No.|Assignment|Link|
 |--:|:------:|:-----|
-|1.| Read 01 |[Introductory HTML and JavaScript](https://faroukibrahim-fii.github.io/reading-notes/301/class01)|
-|2.| Read 02 |[HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://faroukibrahim-fii.github.io/reading-notes/301/class02)|
-|3.| Read 03 |[HTML Lists, CSS Boxes, JS Control Flow](https://faroukibrahim-fii.github.io/reading-notes/301/class03)|
-|4.| Read 04 |[HTML Links, CSS Layout, JS Functions](https://faroukibrahim-fii.github.io/reading-notes/301/class04)|
-|5.| Read 05 |[HTML Images; CSS Color & Text](https://faroukibrahim-fii.github.io/reading-notes/301/class05)|
-|6.| Read 06 |[JS Object Literals; The DOM](https://faroukibrahim-fii.github.io/reading-notes/301/class06)|
-|7.| Read 07 |[HTML Tables; JS Constructor Functions](https://faroukibrahim-fii.github.io/reading-notes/301/class07)|
-|8.| Read 08 |[More CSS Layout](https://faroukibrahim-fii.github.io/reading-notes/301/class08)|
-|9.| Read 09 |[Forms and Events](https://faroukibrahim-fii.github.io/reading-notes/301/class09)|
-|10.| Read 10 |[JS Debugging](https://faroukibrahim-fii.github.io/reading-notes/301/class10)|
-|11.| Read 11 |[Assorted Topics](https://faroukibrahim-fii.github.io/reading-notes/301/class11)|
-|12.| Read 12 |[Docs for the HTML `<canvas>` Element & Chart.js](https://faroukibrahim-fii.github.io/reading-notes/301/class12)|
-|13.| Read 13 |[Local Storage](https://faroukibrahim-fii.github.io/reading-notes/301/Class-13)|
-|14.| Read 14a |[CSS Transforms, Transitions, and Animations](https://faroukibrahim-fii.github.io/reading-notes/301/class14)|
-|15.| Read 14b |[What Google Learned About Teams](https://faroukibrahim-fii.github.io/reading-notes/301/class15)|
+|1.| Read 01 |[Class 01](https://faroukibrahim-fii.github.io/reading-notes/301/class01)|
+|2.| Read 02 |[Class 02](https://faroukibrahim-fii.github.io/reading-notes/301/class02)|
+|3.| Read 03 |[Class 03](https://faroukibrahim-fii.github.io/reading-notes/301/class03)|
+|4.| Read 04 |[Class 04](https://faroukibrahim-fii.github.io/reading-notes/301/class04)|
+|5.| Read 05 |[Class 05](https://faroukibrahim-fii.github.io/reading-notes/301/class05)|
+|6.| Read 06 |[Class 06](https://faroukibrahim-fii.github.io/reading-notes/301/class06)|
+|7.| Read 07 |[Class 07](https://faroukibrahim-fii.github.io/reading-notes/301/class07)|
+|8.| Read 08 |[Class 08](https://faroukibrahim-fii.github.io/reading-notes/301/class08)|
+|9.| Read 09 |[Class 09](https://faroukibrahim-fii.github.io/reading-notes/301/class09)|
+|10.| Read 10 |[Class 10](https://faroukibrahim-fii.github.io/reading-notes/301/class10)|
+|11.| Read 11 |[Class 11](https://faroukibrahim-fii.github.io/reading-notes/301/class11)|
+|12.| Read 12 |[Class 12](https://faroukibrahim-fii.github.io/reading-notes/301/class12)|
+|13.| Read 13 |[Class 13](https://faroukibrahim-fii.github.io/reading-notes/301/Class-13)|
+|14.| Read 14a |[Class 4](https://faroukibrahim-fii.github.io/reading-notes/301/class14)|
+|15.| Read 14b |[Class 15](https://faroukibrahim-fii.github.io/reading-notes/301/class15)|
 
 ### Code 401 - Advanced Software Development
