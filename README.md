@@ -70,7 +70,7 @@ Following is the table of content for the 201 course reading notes:
 |11.| Read 11 |[Class 11](https://faroukibrahim-fii.github.io/reading-notes/301/class11)|
 |12.| Read 12 |[Class 12](https://faroukibrahim-fii.github.io/reading-notes/301/class12)|
 |13.| Read 13 |[Class 13](https://faroukibrahim-fii.github.io/reading-notes/301/Class-13)|
-|14.| Read 14a |[Class 4](https://faroukibrahim-fii.github.io/reading-notes/301/class14)|
-|15.| Read 14b |[Class 15](https://faroukibrahim-fii.github.io/reading-notes/301/class15)|
+|14.| Read 14 |[Class 14](https://faroukibrahim-fii.github.io/reading-notes/301/class14)|
+|15.| Read 15 |[Class 15](https://faroukibrahim-fii.github.io/reading-notes/301/class15)|
 
 ### Code 401 - Advanced Software Development
