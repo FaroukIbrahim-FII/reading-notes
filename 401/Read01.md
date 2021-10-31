@@ -43,3 +43,4 @@ Since Python 3.5, please correct me if I am wrong, type annotations are part of 
 ## Automate the Automation
 With black and mypy we can avoid formatting code manually or run into avoidable errors. But, we still have to execute those tools manually. Shouldn’t that be automated too? Yes!
 Pre-commit is all you need.
+
