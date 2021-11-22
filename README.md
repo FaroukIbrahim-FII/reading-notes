@@ -99,7 +99,7 @@ Following is the table of content for the 301 course reading notes:
 |16.| Read 01 |[Class 16](https://faroukibrahim-fii.github.io/reading-notes/401/Read16)|
 |17.| Read 02 |[Class 17](https://faroukibrahim-fii.github.io/reading-notes/401/Read17)|
 |18.| Read 03 |[Class 18](https://faroukibrahim-fii.github.io/reading-notes/401/Read18)|
-|18.| Read 03 |[Class 18 (optional)](https://faroukibrahim-fii.github.io/reading-notes/401/Read18-(optional).md)|
+|18.| Read 03 |[Class 18 (optional)](https://faroukibrahim-fii.github.io/reading-notes/401/Read18B.md)|
 |19.| Read 04 |[Class 19](https://faroukibrahim-fii.github.io/reading-notes/401/Read19)|
 |20.| Read 05 |[Class 20](https://faroukibrahim-fii.github.io/reading-notes/401/Read20)|
 |21.| Read 06 |[Class 21](https://faroukibrahim-fii.github.io/reading-notes/401/Read21)|
